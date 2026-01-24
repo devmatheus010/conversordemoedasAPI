@@ -76,7 +76,7 @@ Projeto em Java que realiza conversão de moedas em tempo real utilizando a API 
 **Matheus Alves**  
 Desenvolvedor Full Stack  
 
-- GitHub: [https://github.com/devmatheus010](https://github.com/devmatheus010)
+- Meu Perfil: [Linkedin](https://linkedin.com/in/devmatheusalves)
 
 
 ---
